@@ -1,5 +1,5 @@
 Application version 1.0
 Feature  A changes
 Feature B changes
-New feature added in the  App  by veerladeva developer 
+
 
